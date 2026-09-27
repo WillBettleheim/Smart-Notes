@@ -1,8 +1,6 @@
 
 # 📝 Smart Notes
 
-**Your personal space for ideas.**
-
 Smart Notes is a web-based note-taking application designed to help users create, organize, edit, and manage their notes in one place. With features like pinned notes, categories, rich-text editing, and Study Mode, it makes organizing information and reviewing notes simple and convenient.
 
 🌐 **Live Website:** [Open Smart Notes](https://willbettleheim.github.io/Smart-Notes/)
