@@ -1,5 +1,5 @@
 
-# 📝 Smart Notes
+# Smart Notes
 
 Smart Notes is a web-based note-taking application which is designed to help users create , organise , edit and manage their notes in one place.With features like pinned notes, categories, text editing , study mode and import and export feature it helps in organising information and reviewing notes way more easy and efficient.
 
@@ -9,7 +9,7 @@ Smart Notes is a web-based note-taking application which is designed to help use
 Flashcards ,Multiple-choice quizzes ,Fill-in-the-blanks ,Short-answer questions.And there is another important features of SMART NOTES that is import and export notes where with ,Import notes users can easily import there notes that they want to add and also make backup of there notes for future use with the EXPORT FEATURE.I have also added some text editing features for the users to highlight the important text in there notes they can add heading , make lists and many more features such as bold, italic, underline etc.This helps n structuring notes for better readability.
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dashboard — Dark Mode
 
