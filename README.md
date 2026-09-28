@@ -97,6 +97,9 @@ For additional assistance, you can open an issue in the GitHub repository.
 ---
 
 ##  License
-Smart Notes is licensed under the [MIT license](./LICENSE).
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the subject to the terms the MIT License.
-Please refer to the repository's [LICENSE](./LICENSE) file for the complete license text.
+
+## License
+
+Smart Notes is licensed under the [MIT License](./LICENSE).
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the terms of the MIT License.
+See the [LICENSE](./LICENSE) file for the complete license text.
