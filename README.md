@@ -83,7 +83,7 @@ Smart Notes is a web-based application.You can find the exact technologies and d
 
 ---
 
-## ❓ Help
+## Help
 
 If you encounter any issues with Smart Notes:
 
@@ -96,6 +96,6 @@ For additional assistance, you can open an issue in the GitHub repository.
 
 ---
 
-## 📄 License
+##  License
 
 Please refer to the repository's LICENSE file.
