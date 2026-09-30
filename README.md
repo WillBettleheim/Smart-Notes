@@ -13,19 +13,19 @@ Flashcards ,Multiple-choice quizzes ,Fill-in-the-blanks ,Short-answer questions.
 
 ### Dashboard — Dark Mode
 
-![Smart Notes Dashboard Dark Mode](./dashboard-dark.png)
+![Smart Notes Dashboard Dark Mode](./images/dashboard-dark.png)
 
 ### Create a New Note
 
-![Smart Notes Create Note](./create-note.png)
+![Smart Notes Create Note](./images/create-note.png)
 
 ### Study Mode
 
-![Smart Notes Study Mode](./study-mode.png)
+![Smart Notes Study Mode](./images/study-mode.png)
 
 ### Dashboard — Light Mode
 
-![Smart Notes Dashboard Light Mode](./dashboard-light.png)
+![Smart Notes Dashboard Light Mode](./images/dashboard-light.png)
 
 ---
 
